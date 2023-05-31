@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">beacon_library_test</string>
+    <string name="bluetooth_off">Bluetooth не включен.</string>
+    <string name="turn_on_bluetooth">Пожалуйста, включите bluetooth в настройках и откройте приложение повторно.</string>
+    <string name="ble_not_support_title">BluetoothLE не поддерживается на устройстве.</string>
+    <string name="ble_not_support_message">К сожалению, ваше устройство не поддерживает BLE.</string>
+    <string name="username">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="log_in">Войти</string>
+    <string name="auth_fill_both_error">Please fill both fields</string>
+    <string name="end">end</string>
+    <string name="start">start</string>
+    <string name="user_main_intercom">user main intercom</string>
+    <string name="address">Адрес</string>
+    <string name="relay_num">Номер подъезда</string>
+    <string name="mac">mac address</string>
+    <string name="description">Описание</string>
+    <string name="auth">Авторизация</string>
+</resources>
